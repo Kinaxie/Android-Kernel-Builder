@@ -5,11 +5,11 @@
       "branch": "android13-5.15-2024-08",
       "device": "gki"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
-        "branch": "master",
+        "branch": "main",
         "name": "gas"
       },
       {
