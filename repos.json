@@ -14,7 +14,7 @@
       },
       {
         "repo": "https://github.com/llvm/llvm-project",
-        "branch": "16",
+        "branch": "main",
         "name": "clang"
       }
     ],
