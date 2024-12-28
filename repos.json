@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
+      "name": "Chisato_Beta1",
+      "repo": "https://github.com/ztc1997/android_gki_kernel_5.15_common",
       "branch": "TDA",
-      "device": "odin"
+      "device": "fuxi"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -13,8 +13,8 @@
         "name": "gas"
       },
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "repo": "https://github.com/llvm/llvm-project",
+        "branch": "16",
         "name": "clang"
       }
     ],
