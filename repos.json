@@ -3,7 +3,7 @@
       "name": "Chisato_Beta1",
       "repo": "https://github.com/ztc1997/android_gki_kernel_5.15_common",
       "branch": "android13-5.15-2024-08",
-      "device": "fuxi"
+      "device": "gki"
     },
     "withKernelSU": true,
     "toolchains": [
